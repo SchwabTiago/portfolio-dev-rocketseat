@@ -1,7 +1,6 @@
 # 💻 Portfólio | Desenvolvedora Fullstack
 
-**Portfólio da Desenvolvedora Fullstack** é um site pessoal moderno e responsivo criado para apresentar o trabalho, habilidades e principais projetos da desenvolvedora **Martina Santos**.  
-O projeto combina design elegante, clareza visual e organização profissional — ideal para destacar competências técnicas e experiências em desenvolvimento web.
+**Portfólio da Desenvolvedora Fullstack** é um site pessoal moderno e responsivo criado para apresentar o trabalho, habilidades e principais projetos da desenvolvedora **Martina Santos**. O projeto combina design elegante, clareza visual e organização profissional — ideal para destacar competências técnicas e experiências em desenvolvimento web.
 
 ---
 
